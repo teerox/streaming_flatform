@@ -1,0 +1,3 @@
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/teerox/streaming_flatform_service_registry.git
