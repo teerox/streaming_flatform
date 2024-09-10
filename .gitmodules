@@ -4,3 +4,12 @@
 [submodule "movie-catalogs"]
 	path = movie-catalogs
 	url = https://github.com/teerox/streaming_flatform_movie_catalogs.git
+[submodule "movie-third-party-service"]
+	path = movie-third-party-service
+	url = https://github.com/teerox/streaming_flatform_movie_third_party_service.git
+[submodule "movie-streaming"]
+	path = movie-streaming
+	url = https://github.com/teerox/streaming_flatform_movie_streaming.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/teerox/streaming_flatform_api_gateway.git

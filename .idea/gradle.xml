@@ -4,10 +4,34 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/movie-catalogs" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/movie-catalogs" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/movie-streaming" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/movie-streaming" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/movie-third-party-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/movie-third-party-service" />
           </set>
         </option>
       </GradleProjectSettings>
