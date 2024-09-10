@@ -2,10 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/api-gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/movie-catalogs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/movie-streaming" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/movie-third-party-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/service-registry" vcs="Git" />
   </component>
 </project>
